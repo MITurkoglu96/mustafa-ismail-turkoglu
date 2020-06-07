@@ -1,0 +1,27 @@
+{
+  "name": "turkoglu",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deneme": "echo 'Bu bir denemedir.'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "turkoglu",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.18",
+    "nodemailer": "^6.4.8"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "repository": {"type": "git",
+    "url": "https://github.com/MITurkoglu96/mustafa-ismail-turkoglu.git"
+  }
+}
